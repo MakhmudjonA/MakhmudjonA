@@ -22,7 +22,7 @@ Focused on building clean, scalable, and maintainable mobile applications.
 <a href="https://linkedin.com/in/maxmudjon-abdumuratov-81373229b" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/user:28601108" target="_blank">
+<a href="https://stackoverflow.com/users/28601108/lonewonderer?tab=profile" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
 </a>
 <a href="https://instagram.com/abdumuratov_m_" target="_blank">
