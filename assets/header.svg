@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Makhmudjon Abdumuratov — Flutter Developer. Building apps people keep.">
+  <defs>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#f5f5f0" fill-opacity=".07"/></pattern>
+    <radialGradient id="glow"><stop offset="0" stop-color="#6d8eef" stop-opacity=".32"/><stop offset=".7" stop-color="#6d8eef" stop-opacity="0"/></radialGradient>
+    <radialGradient id="limeGlow"><stop offset="0" stop-color="#cbfa55" stop-opacity=".35"/><stop offset="1" stop-color="#cbfa55" stop-opacity="0"/></radialGradient>
+    <clipPath id="card"><rect width="1200" height="340" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#0a0a09"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <circle cx="955" cy="172" r="200" fill="url(#glow)">
+      <animate attributeName="r" values="175;205;175" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="-18 955 172" to="342 955 172" dur="36s" repeatCount="indefinite"/>
+      <path d="M 807 172 a 148 56 0 1 0 296 0 a 148 56 0 1 0 -296 0" fill="none" stroke="#f5f5f0" stroke-opacity=".22" stroke-width="1.2"/>
+      <circle r="6" fill="#cbfa55">
+        <animateMotion dur="12s" repeatCount="indefinite" path="M 807 172 a 148 56 0 1 0 296 0 a 148 56 0 1 0 -296 0"/>
+      </circle>
+    </g>
+    
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="32 955 172" to="-328 955 172" dur="28s" repeatCount="indefinite"/>
+      <path d="M 835 172 a 120 44 0 1 0 240 0 a 120 44 0 1 0 -240 0" fill="none" stroke="#f5f5f0" stroke-opacity=".22" stroke-width="1.2"/>
+      <circle r="5" fill="#7198ff">
+        <animateMotion dur="9.333333333333334s" repeatCount="indefinite" path="M 835 172 a 120 44 0 1 0 240 0 a 120 44 0 1 0 -240 0"/>
+      </circle>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+      <circle cx="955" cy="172" r="80" fill="url(#limeGlow)"/>
+      <circle cx="955" cy="172" r="46" fill="#cbfa55"/>
+      <text x="955" y="181" text-anchor="middle" fill="#0a0a09" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="1">MA</text>
+    </g>
+    <text x="1050" y="52" fill="#a2a29c" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.5">01 / CRAFT</text>
+    <text x="780" y="312" fill="#cbfa55" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2.5" font-weight="600">DART &amp; FLUTTER</text>
+
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.1s" dur=".7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.1s" dur=".7s" fill="freeze"/>
+      <text x="64" y="72" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.6"><tspan fill="#cbfa55">01</tspan><tspan dx="16" fill="#a2a29c">FLUTTER DEVELOPER / TASHKENT</tspan></text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur=".7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.3s" dur=".7s" fill="freeze"/>
+      <text x="60" y="148" fill="#f5f5f0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="600" letter-spacing="-2.5">Building apps</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur=".7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.5s" dur=".7s" fill="freeze"/>
+      <text x="60" y="218" fill="#cbfa55" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="600" letter-spacing="-2.5">people keep.</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.8s" dur=".7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" begin="0.8s" dur=".7s" fill="freeze"/>
+      <text x="64" y="272" fill="#a2a29c" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20">&gt;</text>
+      
+    <clipPath id="type0"><rect x="96" y="250" height="30" width="0">
+      <animate attributeName="width" values="0;384;384;0;0" keyTimes="0;0.0952;0.2024;0.2321;1" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <text x="96" y="272" clip-path="url(#type0)" fill="#f5f5f0" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" textLength="384" lengthAdjust="spacingAndGlyphs">Flutter &amp; Dart — iOS and Android</text>
+    <rect y="254" width="10" height="22" fill="#cbfa55" opacity="0">
+      <animate attributeName="x" values="98;482;482;98;98" keyTimes="0;0.0952;0.2024;0.2321;1" dur="16.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0;0.0952;0.2024;0.2321;1" calcMode="discrete" dur="16.8s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="type1"><rect x="96" y="250" height="30" width="0">
+      <animate attributeName="width" values="0;0;396;396;0;0" keyTimes="0;0.25;0.3452;0.4524;0.4821;1" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <text x="96" y="272" clip-path="url(#type1)" fill="#f5f5f0" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" textLength="396" lengthAdjust="spacingAndGlyphs">Clean Architecture · BLoC · SOLID</text>
+    <rect y="254" width="10" height="22" fill="#cbfa55" opacity="0">
+      <animate attributeName="x" values="98;98;494;494;98;98" keyTimes="0;0.25;0.3452;0.4524;0.4821;1" dur="16.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.25;0.3452;0.4524;0.4821;1" calcMode="discrete" dur="16.8s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="type2"><rect x="96" y="250" height="30" width="0">
+      <animate attributeName="width" values="0;0;504;504;0;0" keyTimes="0;0.5;0.5952;0.7024;0.7321;1" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <text x="96" y="272" clip-path="url(#type2)" fill="#f5f5f0" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" textLength="504" lengthAdjust="spacingAndGlyphs">3 apps live on the App Store &amp; Google Play</text>
+    <rect y="254" width="10" height="22" fill="#cbfa55" opacity="0">
+      <animate attributeName="x" values="98;98;602;602;98;98" keyTimes="0;0.5;0.5952;0.7024;0.7321;1" dur="16.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.5;0.5952;0.7024;0.7321;1" calcMode="discrete" dur="16.8s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="type3"><rect x="96" y="250" height="30" width="0">
+      <animate attributeName="width" values="0;0;444;444;0;0" keyTimes="0;0.75;0.8452;0.9524;0.9821;1" dur="16.8s" repeatCount="indefinite" calcMode="linear"/>
+    </rect></clipPath>
+    <text x="96" y="272" clip-path="url(#type3)" fill="#f5f5f0" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" textLength="444" lengthAdjust="spacingAndGlyphs">makhmudjon.me — let's build something</text>
+    <rect y="254" width="10" height="22" fill="#cbfa55" opacity="0">
+      <animate attributeName="x" values="98;98;542;542;98;98" keyTimes="0;0.75;0.8452;0.9524;0.9821;1" dur="16.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0;0.75;0.8452;0.9524;0.9821;1" calcMode="discrete" dur="16.8s" repeatCount="indefinite"/>
+    </rect>
+    </g>
+
+    <g transform="translate(64 314)">
+      <circle cx="4" cy="-4" r="4" fill="#cbfa55"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="4" cy="-4" r="4" fill="none" stroke="#cbfa55"><animate attributeName="r" values="4;11" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="18" y="0" fill="#a2a29c" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" letter-spacing="1.5">AVAILABLE FOR WORK</text>
+    </g>
+    <rect x=".5" y=".5" width="1199" height="339" rx="23.5" fill="none" stroke="#f5f5f0" stroke-opacity=".12"/>
+  </g>
+</svg>
